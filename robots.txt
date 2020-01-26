@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eefoxohri.colorbarflett.com/sitemap.xml
